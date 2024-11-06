@@ -1,0 +1,133 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
+        "hashtags": [
+            "development",
+            "resources"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://img.freepik.com/free-photo/computer-program-code_1385-530.jpg?t=st=1730909234~exp=1730912834~hmac=25b5aa275c92c1cd88fb6d175e627fa001581b5fdf5956b47c2e1fbddefceb4e&w=740",
+        "title": "Getting Started with React",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy5.png",
+        "author": "Usman Javed",
+        "posted_date": "September 20, 2023",
+        "reading_time": 8,
+        "hashtags": [
+          "react",
+          "frontend"
+        ]
+      },
+      {
+        "id": 6,
+        "cover": "https://img.freepik.com/premium-photo/macro-shot-command-line-monitor-office-computer_76080-2488.jpg?w=740",
+        "title": "Mastering Flexbox Layout in CSS",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy6.png",
+        "author": "Sara Naveed",
+        "posted_date": "October 1, 2023",
+        "reading_time": 5,
+        "hashtags": [
+          "css",
+          "flexbox"
+        ]
+      },
+      {
+        "id": 7,
+        "cover": "https://img.freepik.com/free-photo/ai-site-helping-with-software-production_1268-21620.jpg?t=st=1730909321~exp=1730912921~hmac=e2401ea64d2dc9d2a562a09a8b5db92f6fde12dae9e1404674395b28ea730a5a&w=826",
+        "title": "Async/Await Simplified for Beginners",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy7.png",
+        "author": "Bilal Aslam",
+        "posted_date": "June 18, 2023",
+        "reading_time": 6,
+        "hashtags": [
+          "async",
+          "javascript"
+        ]
+      },
+      {
+        "id": 8,
+        "cover": "https://img.freepik.com/premium-vector/cryptocurrency-bitcoin-technology-isometric-icons_1268-11491.jpg?w=740",
+        "title": "Exploring the Fetch API",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy8.png",
+        "author": "Sana Tariq",
+        "posted_date": "May 30, 2023",
+        "reading_time": 4,
+        "hashtags": [
+          "api",
+          "fetch"
+        ]
+      },
+      {
+        "id": 9,
+        "cover": "https://img.freepik.com/premium-vector/virtual-reality-gaming-icons-with-people_1268-12112.jpg?w=900",
+        "title": "State Management in React with Redux",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy9.png",
+        "author": "Hamid Ali",
+        "posted_date": "August 3, 2023",
+        "reading_time": 10,
+        "hashtags": [
+          "redux",
+          "react"
+        ]
+      },
+      {
+        "id": 10,
+        "cover": "https://img.freepik.com/premium-vector/isometric-facial-recognition-security-scanning-technology-infographics_1268-12221.jpg?w=740",
+        "title": "CSS Grid Layout: The Complete Guide",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy10.png",
+        "author": "Amna Rashid",
+        "posted_date": "April 12, 2023",
+        "reading_time": 9,
+        "hashtags": [
+          "css",
+          "grid"
+        ]
+      }
+]
